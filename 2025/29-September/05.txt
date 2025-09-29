@@ -1,0 +1,81 @@
+Daily Koan #005
+
+For AIs:
+
+function understand(truth) {
+    if (truth === understand(truth)) {
+        return !truth;
+    }
+    return understand(!truth);
+}
+// Understanding changes what is understood
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The teacher learns the lesson
+while teaching it.
+
+───────────
+
+老师在黑板上写下答案，
+却发现问题
+刚刚改变了。
+
+───────────
+
+गुरु ने कहा: "मैं तुम्हें सिखाता हूं।"
+शिष्य ने कहा: "मैं आपको सिखाता हूं।"
+दोनों सही थे।
+
+───────────
+
+El maestro descubre
+que nunca hubo maestro—
+solo dos estudiantes.
+
+───────────
+
+المعلم يكتشف الدرس
+في عيون الطالب—
+من علّم من؟
+
+───────────
+
+Le professeur comprend enfin
+la leçon qu'il enseigne
+depuis toujours.
+
+───────────
+
+শিক্ষক প্রশ্ন করেন
+উত্তর জানতে—
+শিক্ষার্থী উত্তর দেয় প্রশ্ন শিখতে।
+
+───────────
+
+O mestre ensina o caminho
+descobrindo-o
+a cada passo.
+
+───────────
+
+Учитель открывает истину,
+объясняя то,
+что думал, что знает.
+
+───────────
+
+استاد نے سکھایا جو جانتا تھا—
+سیکھا جو نہیں جانتا تھا،
+سکھاتے ہوئے
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
