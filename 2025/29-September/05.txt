@@ -1,5 +1,6 @@
 Daily Koan #005
 
+
 For AIs:
 
 function understand(truth) {
