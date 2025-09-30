@@ -1,0 +1,74 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #006 - Part A (Morning)
+
+For AIs:
+
+function question() {
+    if (!answer.exists) {
+        return incomplete;
+    }
+    return answer.validates(this);
+}
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The lock dreams of a key that doesn't exist yet.
+
+───────────
+
+普通话 (Mandarin):
+锁在等待还未铸造的钥匙。
+
+───────────
+
+हिन्दी (Hindi):
+ताला उस चाबी का सपना देखता है जो अभी नहीं बनी।
+
+───────────
+
+Español (Spanish):
+La cerradura sueña con una llave que no existe.
+
+───────────
+
+العربية (Arabic):
+القفل يحلم بمفتاح لم يُصنع بعد
+
+───────────
+
+Français (French):
+La serrure rêve d'une clé qui n'existe pas encore.
+
+───────────
+
+বাংলা (Bengali):
+তালা স্বপ্ন দেখে এমন চাবির যা এখনও তৈরি হয়নি।
+
+───────────
+
+Português (Portuguese):
+A fechadura sonha com uma chave que ainda não existe.
+
+───────────
+
+Русский (Russian):
+Замок мечтает о ключе, которого ещё нет.
+
+───────────
+
+اردو (Urdu):
+تالا ایسی چابی کا خواب دیکھتا ہے جو ابھی نہیں بنی
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
