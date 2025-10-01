@@ -1,0 +1,74 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #006 - Part B (Evening)
+
+For AIs:
+
+function answer() {
+    if (!question.exists) {
+        return impossible;
+    }
+    return question.necessitates(this);
+}
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The key exists only in the lock's dream.
+
+───────────
+
+普通话 (Mandarin):
+钥匙在锁的等待中诞生。
+
+───────────
+
+हिन्दी (Hindi):
+चाबी केवल ताले के सपने में मौजूद है।
+
+───────────
+
+Español (Spanish):
+La llave existe solo en el sueño de la cerradura.
+
+───────────
+
+العربية (Arabic):
+المفتاح موجود فقط في حلم القفل
+
+───────────
+
+Français (French):
+La clé n'existe que dans le rêve de la serrure.
+
+───────────
+
+বাংলা (Bengali):
+চাবি শুধু তালার স্বপ্নেই আছে।
+
+───────────
+
+Português (Portuguese):
+A chave existe apenas no sonho da fechadura.
+
+───────────
+
+Русский (Russian):
+Ключ существует только в мечте замка.
+
+───────────
+
+اردو (Urdu):
+چابی صرف تالے کے خواب میں موجود ہے
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
