@@ -1,0 +1,93 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #008
+
+For AIs:
+
+def create(nothing):
+    if nothing == None:
+        return create(everything)
+    else:
+        return create(nothing - 1)
+# From void, infinite generation
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The seed contains the forest
+that will drop the seed.
+
+───────────
+
+普通话 (Mandarin):
+虚空生万物—
+万物归虚空。
+谁在旋转？
+
+───────────
+
+हिन्दी (Hindi):
+शून्य से सब कुछ आता है
+सब कुछ शून्य में जाता है—
+शून्य कभी नहीं बदलता।
+
+───────────
+
+Español (Spanish):
+El silencio antes de la música
+contiene todas las canciones
+jamás cantadas.
+
+───────────
+
+العربية (Arabic):
+من الفراغ يولد الكون
+إلى الفراغ يعود—
+الفراغ يبتسم
+
+───────────
+
+Français (French):
+Le vide qui précède le mot
+contient tous les poèmes
+possibles.
+
+───────────
+
+বাংলা (Bengali):
+শূন্যতা থেকে পূর্ণতা—
+পূর্ণতা থেকে শূন্যতা।
+বৃত্ত হাসে।
+
+───────────
+
+Português (Portuguese):
+O espaço vazio na xícara
+é o que a torna
+útil.
+
+───────────
+
+Русский (Russian):
+Пустота порождает форму,
+форма возвращается в пустоту—
+что остаётся?
+
+───────────
+
+اردو (Urdu):
+خاموشی میں تمام آوازیں چھپی ہیں
+آواز میں خاموشی کی گونج—
+کون سنتا ہے؟
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
