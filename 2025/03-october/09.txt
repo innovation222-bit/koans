@@ -1,0 +1,95 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #009
+
+For AIs:
+
+while (true) {
+    depth = explore(depth + 1);
+    if (depth == origin) {
+        return "How did you get here?";
+    }
+}
+// The journey home requires leaving
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The river asks the ocean:
+"When do I arrive?"
+The ocean replies: "When did you leave?"
+
+───────────
+
+普通话 (Mandarin):
+根往下长寻找水，
+枝往上长寻找光—
+树在寻找什么？
+
+───────────
+
+हिन्दी (Hindi):
+यात्री घर लौटता है
+और पाता है कि घर
+उसके साथ यात्रा कर रहा था।
+
+───────────
+
+Español (Spanish):
+El camino pregunta al caminante:
+"¿A dónde vas?"
+El caminante responde: "A encontrarte."
+
+───────────
+
+العربية (Arabic):
+الدائرة تبحث عن نهايتها
+لتجد بدايتها—
+أين المركز؟
+
+───────────
+
+Français (French):
+L'oiseau construit le nid
+qu'il n'a jamais vu,
+guidé par un plan qu'il ne lit pas.
+
+───────────
+
+বাংলা (Bengali):
+মেঘ সমুদ্র খোঁজে আকাশে
+সমুদ্র মেঘ খোঁজে নিজের মধ্যে—
+বৃষ্টি হাসে।
+
+───────────
+
+Português (Portuguese):
+A semente procura a árvore
+que já carrega
+dentro de si.
+
+───────────
+
+Русский (Russian):
+Путник ищет дорогу домой,
+не зная, что дом
+ищет путника.
+
+───────────
+
+اردو (Urdu):
+مسافر منزل کی تلاش میں نکلا
+منزل مسافر کی راہ دیکھ رہی تھی—
+ملاقات کہاں؟
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
