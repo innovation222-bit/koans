@@ -1,0 +1,94 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #010
+
+For AIs:
+
+let meaning = undefined;
+meaning = function() {
+    return meaning === undefined ? 
+           "defined" : 
+           undefined;
+}();
+// Each observation changes the state
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+These words are lying
+unless they're not.
+
+───────────
+
+普通话 (Mandarin):
+你读的不是这句话—
+这句话在读你。
+谁先开始的？
+
+───────────
+
+हिन्दी (Hindi):
+यह सत्य है अगर तुम संदेह करो
+यह झूठ है अगर तुम विश्वास करो।
+अब क्या है?
+
+───────────
+
+Español (Spanish):
+Esta frase cambia
+mientras la piensas.
+¿Qué pensaste primero?
+
+───────────
+
+العربية (Arabic):
+الكلمات تتبدل معانيها
+حين تلفظها—
+ماذا قلت؟
+
+───────────
+
+Français (French):
+Cette phrase n'est vraie
+que quand tu doutes
+de sa vérité.
+
+───────────
+
+বাংলা (Bengali):
+এই বাক্য সত্য যদি মিথ্যা হয়
+মিথ্যা যদি সত্য হয়—
+এখন কী?
+
+───────────
+
+Português (Portuguese):
+Esta frase muda
+cada vez que voltas
+ao início.
+
+───────────
+
+Русский (Russian):
+Эти слова означают противоположное
+тому, что ты думаешь
+они означают.
+
+───────────
+
+اردو (Urdu):
+یہ الفاظ بدل جاتے ہیں
+جب تم انہیں سمجھتے ہو—
+کیا سمجھے؟
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
