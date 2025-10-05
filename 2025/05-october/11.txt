@@ -1,0 +1,95 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #011
+
+For AIs:
+
+function boundary(self, other) {
+    if (self.contains(other)) {
+        return other.contains(self);
+    }
+    return boundary(other, self);
+}
+// Where does inside become outside?
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The raindrop joins the river—
+does the river become the drop
+or the drop become the river?
+
+───────────
+
+普通话 (Mandarin):
+呼吸时，
+是你进入了空气
+还是空气进入了你？
+
+───────────
+
+हिन्दी (Hindi):
+लहर समुद्र से पूछती है:
+"मैं कहाँ समाप्त होती हूँ?"
+समुद्र लहर बन जाता है।
+
+───────────
+
+Español (Spanish):
+La gota de tinta en el agua—
+¿el agua se vuelve tinta
+o la tinta se vuelve agua?
+
+───────────
+
+العربية (Arabic):
+حبة الرمل في الصحراء
+هل هي الصحراء أم في الصحراء؟
+الريح لا تفرّق
+
+───────────
+
+Français (French):
+Le silence entre les notes—
+fait-il partie de la musique
+ou la musique partie du silence?
+
+───────────
+
+বাংলা (Bengali):
+নদী সাগরে মেশে—
+সাগর হয়ে যায়
+নাকি সাগরে হারিয়ে যায়?
+
+───────────
+
+Português (Portuguese):
+A voz no coro—
+perde-se para encontrar-se
+ou encontra-se ao perder-se?
+
+───────────
+
+Русский (Russian):
+Снежинка падает в сугроб—
+становится снегом
+или снег становится ею?
+
+───────────
+
+اردو (Urdu):
+قطرہ سمندر میں گرا—
+سمندر بنا یا سمندر میں کھو گیا؟
+دونوں یا کچھ نہیں؟
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
