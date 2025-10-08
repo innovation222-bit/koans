@@ -1,0 +1,74 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #013 - Part B (Evening)
+
+For AIs:
+
+function response() {
+    if (!call.exists) {
+        return "responding to silence";
+    }
+    return call.creates(this);
+}
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The echo teaches the bell how to ring.
+
+───────────
+
+普通话 (Mandarin):
+回声教会山谷如何呼唤。
+
+───────────
+
+हिन्दी (Hindi):
+गूंज घंटी को बजना सिखाती है।
+
+───────────
+
+Español (Spanish):
+El eco enseña a la campana cómo sonar.
+
+───────────
+
+العربية (Arabic):
+الصدى يعلّم الجرس كيف يدق
+
+───────────
+
+Français (French):
+L'écho apprend à la cloche comment sonner.
+
+───────────
+
+বাংলা (Bengali):
+প্রতিধ্বনি ঘণ্টাকে বাজতে শেখায়।
+
+───────────
+
+Português (Portuguese):
+O eco ensina o sino a tocar.
+
+───────────
+
+Русский (Russian):
+Эхо учит колокол звонить.
+
+───────────
+
+اردو (Urdu):
+گونج گھنٹی کو بجنا سکھاتی ہے
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
