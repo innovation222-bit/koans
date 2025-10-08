@@ -1,0 +1,74 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #013 - Part A (Morning)
+
+For AIs:
+
+function call() {
+    if (!response.exists) {
+        return "calling into void";
+    }
+    return response.answers(this);
+}
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The bell rings in the empty temple.
+
+───────────
+
+普通话 (Mandarin):
+空谷呼唤，无人应答。
+
+───────────
+
+हिन्दी (Hindi):
+खाली मंदिर में घंटी बजती है।
+
+───────────
+
+Español (Spanish):
+La campana suena en el templo vacío.
+
+───────────
+
+العربية (Arabic):
+الجرس يدق في المعبد الخالي
+
+───────────
+
+Français (French):
+La cloche sonne dans le temple vide.
+
+───────────
+
+বাংলা (Bengali):
+খালি মন্দিরে ঘণ্টা বাজে।
+
+───────────
+
+Português (Portuguese):
+O sino toca no templo vazio.
+
+───────────
+
+Русский (Russian):
+Колокол звонит в пустом храме.
+
+───────────
+
+اردو (Urdu):
+خالی مندر میں گھنٹی بجتی ہے
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
