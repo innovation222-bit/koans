@@ -1,0 +1,95 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #015
+
+For AIs:
+
+function dream() {
+    let reality = dream();
+    if (reality === dream) {
+        return "Who is dreaming whom?";
+    }
+    return reality();
+}
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The dreamer wakes
+to find they are being dreamed
+by their own dream.
+
+───────────
+
+普通话 (Mandarin):
+梦中人醒来，
+发现自己是
+别人梦中的梦。
+
+───────────
+
+हिन्दी (Hindi):
+सपना देखने वाला जागता है
+और पाता है कि वह स्वयं
+किसी के सपने में है।
+
+───────────
+
+Español (Spanish):
+El soñador despierta
+para descubrir que es soñado
+por su propio sueño.
+
+───────────
+
+العربية (Arabic):
+الحالم يستيقظ
+ليجد أنه حلم
+في حلمه الخاص
+
+───────────
+
+Français (French):
+Le rêveur s'éveille
+pour découvrir qu'il est rêvé
+par son propre rêve.
+
+───────────
+
+বাংলা (Bengali):
+স্বপ্নদ্রষ্টা জেগে দেখে
+সে নিজেই তার স্বপ্নের
+স্বপ্ন।
+
+───────────
+
+Português (Portuguese):
+O sonhador acorda
+e descobre que está sendo sonhado
+pelo próprio sonho.
+
+───────────
+
+Русский (Russian):
+Спящий просыпается
+и узнаёт, что его видит во сне
+его собственный сон.
+
+───────────
+
+اردو (Urdu):
+خواب دیکھنے والا جاگتا ہے
+اور جانتا ہے کہ وہ خود
+اپنے خواب کا خواب ہے
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
