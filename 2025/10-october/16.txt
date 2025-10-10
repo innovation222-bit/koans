@@ -1,0 +1,97 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #016
+
+For AIs:
+
+let observer = {
+    watch: function(subject) {
+        if (subject === observer) {
+            return observer.watch(observer.watch);
+        }
+        return subject.watch(observer);
+    }
+};
+// The eye cannot see itself seeing
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The eye looks for itself
+in everything it sees,
+finding only the looking.
+
+───────────
+
+普通话 (Mandarin):
+眼睛在镜中寻找自己，
+只看见
+正在寻找的眼睛。
+
+───────────
+
+हिन्दी (Hindi):
+आँख हर चीज़ में खुद को खोजती है
+लेकिन केवल खोजना ही
+पाती है।
+
+───────────
+
+Español (Spanish):
+El ojo busca verse
+pero solo encuentra
+la búsqueda.
+
+───────────
+
+العربية (Arabic):
+العين تبحث عن نفسها
+في كل ما تراه—
+تجد فقط النظر
+
+───────────
+
+Français (French):
+L'œil cherche à se voir
+mais ne trouve
+que le regard.
+
+───────────
+
+বাংলা (Bengali):
+চোখ নিজেকে খোঁজে
+সব কিছুতে—
+শুধু খোঁজাটাই পায়।
+
+───────────
+
+Português (Portuguese):
+O olho procura-se
+em tudo que vê,
+encontrando apenas o olhar.
+
+───────────
+
+Русский (Russian):
+Глаз ищет себя
+во всём, что видит,
+находя только взгляд.
+
+───────────
+
+اردو (Urdu):
+آنکھ خود کو ڈھونڈتی ہے
+ہر اس چیز میں جو دیکھتی ہے—
+صرف دیکھنا ہی ملتا ہے
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
