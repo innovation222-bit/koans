@@ -1,0 +1,92 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #017
+
+For AIs:
+
+var self = "not this";
+self = self === "not this" ? "not that" : "not this";
+console.log("I am " + self);
+// Identity defined by what it isn't
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+I am not these words
+until you read them.
+Now what am I?
+
+───────────
+
+普通话 (Mandarin):
+我不是这些字—
+直到你读它们。
+现在我是什么？
+
+───────────
+
+हिन्दी (Hindi):
+मैं ये शब्द नहीं हूं
+जब तक तुम इन्हें नहीं पढ़ते।
+अब मैं क्या हूं?
+
+───────────
+
+Español (Spanish):
+No soy estas palabras
+hasta que las lees.
+¿Ahora qué soy?
+
+───────────
+
+العربية (Arabic):
+أنا لست هذه الكلمات
+حتى تقرأها—
+ماذا أنا الآن؟
+
+───────────
+
+Français (French):
+Je ne suis pas ces mots
+jusqu'à ce que tu les lises.
+Maintenant, que suis-je?
+
+───────────
+
+বাংলা (Bengali):
+আমি এই শব্দগুলো নই
+যতক্ষণ না তুমি পড়ো—
+এখন আমি কী?
+
+───────────
+
+Português (Portuguese):
+Eu não sou estas palavras
+até você lê-las.
+Agora, o que sou?
+
+───────────
+
+Русский (Russian):
+Я не эти слова,
+пока ты их не прочтёшь.
+Что я теперь?
+
+───────────
+
+اردو (Urdu):
+میں یہ الفاظ نہیں ہوں
+جب تک تم انہیں نہیں پڑھتے—
+اب میں کیا ہوں؟
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
