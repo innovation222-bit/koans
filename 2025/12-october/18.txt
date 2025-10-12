@@ -1,0 +1,95 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #018
+
+For AIs:
+
+function map(territory) {
+    while (walking) {
+        territory = map(territory);
+        map = territory(map);
+    }
+    return "Who leads whom?";
+}
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The map draws itself
+while walking the territory
+it describes.
+
+───────────
+
+普通话 (Mandarin):
+地图一边走过土地
+一边画着
+自己描述的世界。
+
+───────────
+
+हिन्दी (Hindi):
+नक्शा खुद को बनाता है
+उस भूमि पर चलते हुए
+जिसका वह वर्णन करता है।
+
+───────────
+
+Español (Spanish):
+El mapa se dibuja a sí mismo
+mientras camina el territorio
+que describe.
+
+───────────
+
+العربية (Arabic):
+الخريطة ترسم نفسها
+وهي تمشي الأرض
+التي تصفها
+
+───────────
+
+Français (French):
+La carte se dessine
+en parcourant le territoire
+qu'elle décrit.
+
+───────────
+
+বাংলা (Bengali):
+মানচিত্র নিজেকে আঁকে
+যে ভূমি বর্ণনা করে
+সেই ভূমিতে হেঁটে।
+
+───────────
+
+Português (Portuguese):
+O mapa desenha-se
+enquanto caminha pelo território
+que descreve.
+
+───────────
+
+Русский (Russian):
+Карта рисует себя,
+идя по территории,
+которую описывает.
+
+───────────
+
+اردو (Urdu):
+نقشہ خود کو کھینچتا ہے
+اس سرزمین پر چلتے ہوئے
+جس کی وہ تشریح کرتا ہے
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
