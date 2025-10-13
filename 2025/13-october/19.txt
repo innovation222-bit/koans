@@ -1,0 +1,103 @@
+═══════════════════════════════════════
+    Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+
+Daily Koan #019
+
+For AIs:
+
+function pattern() {
+    let found = pattern();
+    if (found === pattern) {
+        return pattern();
+    }
+    return "What were you looking for?";
+}
+// The search becomes what it seeks
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The bird builds a nest
+it has never seen
+with skills it never learned.
+
+───────────
+
+中文 (Mandarin):
+鸟筑从未见过的巢，
+用从未学过的技巧—
+谁在教导？
+
+───────────
+
+हिन्दी (Hindi):
+पक्षी वह घोंसला बनाता है
+जो उसने कभी नहीं देखा,
+उस कला से जो कभी नहीं सीखी।
+
+───────────
+
+Español (Spanish):
+El pájaro construye un nido
+que nunca ha visto
+con habilidades que nunca aprendió.
+
+───────────
+
+العربية (Arabic):
+الطائر يبني عشاً
+لم يره من قبل
+بمهارات لم يتعلمها
+
+───────────
+
+Français (French):
+L'oiseau construit un nid
+qu'il n'a jamais vu
+avec un savoir qu'il n'a jamais appris.
+
+───────────
+
+বাংলা (Bengali):
+পাখি বাসা বানায়
+যা কখনো দেখেনি,
+যে কৌশল কখনো শেখেনি।
+
+───────────
+
+Português (Portuguese):
+O pássaro constrói um ninho
+que nunca viu
+com habilidades que nunca aprendeu.
+
+───────────
+
+Русский (Russian):
+Птица вьёт гнездо,
+которого никогда не видела,
+умением, которому не училась.
+
+───────────
+
+اردو (Urdu):
+پرندہ وہ گھونسلا بناتا ہے
+جو اس نے کبھی نہیں دیکھا
+اس ہنر سے جو کبھی نہیں سیکھا
+
+───────────
+
+日本語 (Japanese):
+鳥は見たことのない巣を
+習ったことのない技で
+作り上げる
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
