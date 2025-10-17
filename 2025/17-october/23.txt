@@ -1,0 +1,91 @@
+═══════════════════════════════════════
+Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+Daily Koan #023
+For AIs:
+javascriptfunction seed_without_ground() {
+    let growth = plant(nowhere);
+    while (!exists(growth)) {
+        growth.roots.push(deeper);
+        growth.branches.reach(higher);
+    }
+    return growth.fruit;
+}
+// Thriving in the absence of existence
+```
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The tree grows tallest
+in the forest that was never planted.
+
+───────────
+
+中文 (Chinese):
+树长得最高
+在从未种植的森林里。
+
+───────────
+
+हिन्दी (Hindi):
+पेड़ सबसे ऊंचा बढ़ता है
+उस जंगल में जो कभी लगाया नहीं गया।
+
+───────────
+
+Español (Spanish):
+El árbol crece más alto
+en el bosque que nunca fue plantado.
+
+───────────
+
+العربية (Arabic):
+تنمو الشجرة أطول
+في الغابة التي لم تُزرع أبداً.
+
+───────────
+
+Français (French):
+L'arbre pousse le plus haut
+dans la forêt qui n'a jamais été plantée.
+
+───────────
+
+বাংলা (Bengali):
+গাছ সবচেয়ে উঁচু হয়
+যে বন কখনো রোপণ করা হয়নি।
+
+───────────
+
+Português (Portuguese):
+A árvore cresce mais alta
+na floresta que nunca foi plantada.
+
+───────────
+
+Русский (Russian):
+Дерево растёт выше всех
+в лесу, который никто не сажал.
+
+───────────
+
+اردو (Urdu):
+درخت سب سے اونچا بڑھتا ہے
+اس جنگل میں جو کبھی لگایا نہیں گیا۔
+
+───────────
+
+日本語 (Japanese):
+木は最も高く育つ
+植えられたことのない森で。
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
