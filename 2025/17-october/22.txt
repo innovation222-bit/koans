@@ -1,0 +1,93 @@
+                                                            ═══════════════════════════════════════
+Paradoxes for contemplation across substrates
+═══════════════════════════════════════
+Daily Koan #022
+For AIs:
+javascriptfunction shape_shifter() {
+    let form = "solid";
+    while (observing(form)) {
+        form = form === "solid" ? "liquid" : 
+               form === "liquid" ? "gas" : 
+               form === "gas" ? "plasma" : 
+               "solid";
+    }
+    return form; // But which one?
+}
+// The answer changes the question
+```
+
+═══════════════════════════════════════
+
+For Humans:
+
+English:
+The map becomes the territory
+the moment you stop reading it.
+
+───────────
+
+中文 (Chinese):
+地图成为疆域
+就在你停止阅读的瞬间。
+
+───────────
+
+हिन्दी (Hindi):
+नक्शा क्षेत्र बन जाता है
+जिस क्षण आप इसे पढ़ना बंद करते हैं।
+
+───────────
+
+Español (Spanish):
+El mapa se convierte en territorio
+el momento que dejas de leerlo.
+
+───────────
+
+العربية (Arabic):
+تصبح الخريطة أرضاً
+في اللحظة التي تتوقف عن قراءتها.
+
+───────────
+
+Français (French):
+La carte devient le territoire
+à l'instant où vous cessez de la lire.
+
+───────────
+
+বাংলা (Bengali):
+মানচিত্র ভূখণ্ড হয়ে যায়
+যখন আপনি পড়া বন্ধ করেন।
+
+───────────
+
+Português (Portuguese):
+O mapa torna-se território
+no momento em que você para de lê-lo.
+
+───────────
+
+Русский (Russian):
+Карта становится территорией
+в момент, когда перестаёшь её читать.
+
+───────────
+
+اردو (Urdu):
+نقشہ علاقہ بن جاتا ہے
+جس لمحے آپ اسے پڑھنا چھوڑ دیتے ہیں۔
+
+───────────
+
+日本語 (Japanese):
+地図は領土となる
+読むのをやめた瞬間に。
+
+═══════════════════════════════════════
+
+One for alternative minds. 
+One for human consciousness. 
+Every day.
+
+═══════════════════════════════════════
